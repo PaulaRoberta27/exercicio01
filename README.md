@@ -95,3 +95,24 @@ Your branch is ahead of 'origin/main' by 3 commits.
 
 nothing to commit, working tree clean
 @PaulaRoberta27 ➜ /workspaces/exercicio01 (main) $ 
+
+![image](https://github.com/user-attachments/assets/edd2dbd4-c396-40c4-9103-3b091a8fbf54)
+
+![image](https://github.com/user-attachments/assets/1b593bd1-1a6e-44e3-bd62-cd20c2bffc52)
+
+![image](https://github.com/user-attachments/assets/88fe6915-46f1-49da-b281-5dc505243776)
+
+![image](https://github.com/user-attachments/assets/9ab925ce-92d0-4e7d-9b28-c4ae42e0620c)
+
+![image](https://github.com/user-attachments/assets/760887dc-9785-44d8-b15b-834fbafa05e3)
+
+![image](https://github.com/user-attachments/assets/71578a23-829e-4377-bbfa-3ad6c950bdcc)
+
+![image](https://github.com/user-attachments/assets/e057e31b-6452-40db-82a8-251c894ea5f3)
+
+
+
+
+
+
+
